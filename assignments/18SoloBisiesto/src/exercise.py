@@ -1,3 +1,27 @@
+"""Bisiesto;
+    Año:
+    if(year<=0)
+  {
+    {
+    Dato incorrecto
+    }
+  }
+    if(year % 4 == 0 and year % 100!= 0)
+    {
+     True
+    }
+     if(year % 4! =0)
+    {
+     False
+    }
+    if(year % 4 == 0 and year % 100== 0 and year% 400 != )
+    {
+      False
+    }
+   if(year % 100 == 0 and year % 400 == 0 and year % 4 == 0)
+    {
+      True
+    }"""
 def main():
     #escribe tu código abajo de esta línea
     year = int(input("Año:"))
